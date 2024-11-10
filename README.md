@@ -1,7 +1,3 @@
-Here's a sample README for this stock price prediction project using LSTM and technical indicators:
-
----
-
 # Stock Price Prediction with LSTM and Technical Indicators
 
 This project implements a deep learning model using LSTM (Long Short-Term Memory) networks and technical indicators to predict the next day's opening stock price for Microsoft (MSFT). The model leverages historical stock data and various technical indicators, such as SMA (Simple Moving Average) and MACD (Moving Average Convergence Divergence), to make accurate predictions and suggest potential buy/sell signals.
